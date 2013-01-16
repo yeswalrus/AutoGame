@@ -1,0 +1,3 @@
+dependencies:
+  game_loop:
+    git: https://github.com/johnmccutchan/game_loop.git
