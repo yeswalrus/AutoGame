@@ -1,0 +1,10 @@
+name:  Solitare
+dependencies:
+  game_loop:
+    git: https://github.com/johnmccutchan/game_loop.git
+  vector_math:
+    git: https://github.com/johnmccutchan/DartVectorMath.git
+
+#dependencies:
+#  js: any
+#  unittest: any
